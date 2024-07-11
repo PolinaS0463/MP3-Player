@@ -6,7 +6,7 @@ __pycache__/
 *$py.class
 
 # other
-.db
+songs_database.db
 .mp3
 
 # C extensions
